@@ -1,2 +1,2 @@
-# REST
-The official repository for REST: Restoration Routing and State Consolidation for Nighttime Person Re-Identification.
+# VIST
+The official repository for From Visual Restoration to State Consolidation: Seeking Identity-Discriminative Evidence for Nighttime Person Re-ID.
